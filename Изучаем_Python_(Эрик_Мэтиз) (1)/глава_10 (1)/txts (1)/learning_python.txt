@@ -1,0 +1,3 @@
+In Python you can open and read files!
+In Python you can print message in console!
+In Python you can write working programs!
